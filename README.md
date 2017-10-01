@@ -1,3 +1,4 @@
 #exercise-repo
-Repo mode for exercises
-This will make a conflict!
+This project will conflict...
+Respository made for exercises
+Hello, again!!!
